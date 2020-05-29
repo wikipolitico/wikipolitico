@@ -7,4 +7,4 @@ https://github.com/wikipolitico/wikipolitico/wiki
 - [ ] Reorganizar as seções para facilitar a localização de tópicos
 - [ ] Logotipo / identidade visual
 - [ ] HTML estático com breve apresentação e link para o Wiki
-- [ ] Registrar domínio
+- [X] Registrar domínio
