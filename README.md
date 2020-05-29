@@ -8,3 +8,5 @@ https://github.com/wikipolitico/wikipolitico/wiki
 - [ ] Logotipo / identidade visual
 - [ ] HTML estático com breve apresentação e link para o Wiki
 - [X] Registrar domínio
+- [ ] Mecanismo para identificar links quebrados
+- [ ] Mecanismo para armazenar páginas em cache
